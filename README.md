@@ -1,2 +1,1 @@
-# Tsimur88.github.io
-Test task for Junior Front-End Developer position.
+Here is my test task for Junior Front-End Developer position.
